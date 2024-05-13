@@ -1,0 +1,64 @@
+.navbar-brand{
+    font-size: 20px;
+}
+.fa-brands{
+    font-size: 40px;
+}
+.form-control{
+    width: 800px;
+}
+.cardss{
+    display: flex;
+    justify-content: space-between;
+}
+.cards .card{
+    border: none;
+}
+.usercard{
+    width: 50%;
+}
+.card .userphoto{
+    width: 30px;
+}
+img{
+    width: 20px;
+}
+.card-link{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+.new{
+    display: flex;
+    justify-content: space-between;
+}
+.new button{
+    border: 1px solid green;
+    background-color: green;
+    color: #fff;
+}
+input{
+    width: 100%;
+}
+.star{
+    display: flex;
+}
+.star i{
+    margin-top: 3px;
+    margin-right: 5px;
+}
+.btn-star{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-star button{
+    border: 1px solid gray;
+}
+.navbar-nav img{
+    width: 30px;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
